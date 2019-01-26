@@ -1,1 +1,1 @@
-# spring-boot-ldap-sample
+# spring-boot-ldap
